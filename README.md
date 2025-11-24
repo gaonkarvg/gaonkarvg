@@ -12,7 +12,7 @@ Cloud & DB: Azure/AWS, PostgreSQL, MongoDB, Redis
 
 ---
 
-## 🧑‍💼 Career Snapshot  
+<!-- ## 🧑‍💼 Career Snapshot  
 **Tech Lead**, [Your Current Company] – Bengaluru (2023-Present)  
 * Leading a team of developers in designing and delivering web and cloud solutions.  
 * Architecting microservices, improving deployment pipelines, and ensuring code quality and scalability.  
@@ -44,7 +44,7 @@ An internal tool & companion mobile-web hybrid for managing a 3BHK house purchas
 * GitHub: [github.com/VigneshGaonkar]  
 * Email: vignesh@example.com  
 
----
+--- -->
 
 ## 🤝 Let’s Connect  
 I’m actively looking for architect-role opportunities where I can leverage my experience, drive system design, and work on impactful products with my family’s future goals in mind.  
