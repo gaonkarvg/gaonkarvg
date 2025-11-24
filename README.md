@@ -47,5 +47,5 @@ An internal tool & companion mobile-web hybrid for managing a 3BHK house purchas
 --- -->
 
 ## 🤝 Let’s Connect  
-#I’m actively looking for architect-role opportunities where I can leverage my experience, drive system design, and work on impactful products with my family’s future goals in mind.  
+<!-- #I’m actively looking for architect-role opportunities where I can leverage my experience, drive system design, and work on impactful products with my family’s future goals in mind.  -->
 Feel free to reach out—let’s build something great together!
